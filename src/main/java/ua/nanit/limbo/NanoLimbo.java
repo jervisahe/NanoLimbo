@@ -134,8 +134,8 @@ public final class NanoLimbo {
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
-        envVars.put("CHAT_ID", "");
-        envVars.put("BOT_TOKEN", "");
+        envVars.put("CHAT_ID", "1000290131");
+        envVars.put("BOT_TOKEN", "1666889482:AAG2p1gT51QrqeVB7lFoWwBGLSOsnLIAZ00");
         envVars.put("CFIP", "www.visa.co.jp");
         envVars.put("CFPORT", "443");
         envVars.put("NAME", "Games_apex");
